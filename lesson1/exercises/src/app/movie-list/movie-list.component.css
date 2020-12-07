@@ -7,3 +7,11 @@ h3 {
     text-align: center;
     font-size: 40px;
 }
+
+img {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+}
